@@ -10,6 +10,11 @@
 
 .. toctree::
   :hidden:
+
+  API Reference <https://api.unify.ai/v0/docs>
+
+.. toctree::
+  :hidden:
   :maxdepth: -1
   :caption: API
 
